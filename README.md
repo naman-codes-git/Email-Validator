@@ -1,7 +1,9 @@
 # 📧 Email Validator
 
 A responsive Email Validator website built using HTML, CSS and JavaScript.
+## 🌐 Live Demo
 
+https://naman-codes-git.github.io/Email-Validator/
 ## 🚀 Features
 
 - Responsive Design
